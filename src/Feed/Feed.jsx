@@ -78,14 +78,6 @@ const Feed = () => {
                     })
                 }
             </FlipMove>
-            {/* <Post name="Shraddha Tiwari" description="I love @Sandeeper96" message="I love Sandeep very much..." photoURL="https://media.licdn.com/dms/image/D4D03AQEush98CevWmQ/profile-displayphoto-shrink_200_200/0/1665484153723?e=1688601600&v=beta&t=_-aghdi_EI0slP7N0-sBFBBX8rS-9ljvXjE4veSk-8o" />
-            <Post name="Sandeep Kumar" description="I love @Shraddha" message="I love Shraddha very much..." photoURL="https://media.licdn.com/dms/image/D4D35AQG7JiapKbjPWQ/profile-framedphoto-shrink_200_200/0/1677138207425?e=1683666000&v=beta&t=ZZ6thcLlAy0RDtiKr-DQny2Gvx3N3CHhrN6zH5f4Qag" />
-            <Post name="Shraddha Tiwari" description="I love @Sandeeper96" message="I love Sandeep very much..." photoURL="https://media.licdn.com/dms/image/D4D03AQEush98CevWmQ/profile-displayphoto-shrink_200_200/0/1665484153723?e=1688601600&v=beta&t=_-aghdi_EI0slP7N0-sBFBBX8rS-9ljvXjE4veSk-8o" />
-            <Post name="Sandeep Kumar" description="I love @Shraddha" message="I love Shraddha very much..." photoURL="https://media.licdn.com/dms/image/D4D35AQG7JiapKbjPWQ/profile-framedphoto-shrink_200_200/0/1677138207425?e=1683666000&v=beta&t=ZZ6thcLlAy0RDtiKr-DQny2Gvx3N3CHhrN6zH5f4Qag" />
-            <Post name="Shraddha Tiwari" description="I love @Sandeeper96" message="I love Sandeep very much..." photoURL="https://media.licdn.com/dms/image/D4D03AQEush98CevWmQ/profile-displayphoto-shrink_200_200/0/1665484153723?e=1688601600&v=beta&t=_-aghdi_EI0slP7N0-sBFBBX8rS-9ljvXjE4veSk-8o" />
-            <Post name="Sandeep Kumar" description="I love @Shraddha" message="I love Shraddha very much..." photoURL="https://media.licdn.com/dms/image/D4D35AQG7JiapKbjPWQ/profile-framedphoto-shrink_200_200/0/1677138207425?e=1683666000&v=beta&t=ZZ6thcLlAy0RDtiKr-DQny2Gvx3N3CHhrN6zH5f4Qag" />
-            <Post name="Shraddha Tiwari" description="I love @Sandeeper96" message="I love Sandeep very much..." photoURL="https://media.licdn.com/dms/image/D4D03AQEush98CevWmQ/profile-displayphoto-shrink_200_200/0/1665484153723?e=1688601600&v=beta&t=_-aghdi_EI0slP7N0-sBFBBX8rS-9ljvXjE4veSk-8o" />
-            <Post name="Sandeep Kumar" description="I love @Shraddha" message="I love Shraddha very much..." photoURL="https://media.licdn.com/dms/image/D4D35AQG7JiapKbjPWQ/profile-framedphoto-shrink_200_200/0/1677138207425?e=1683666000&v=beta&t=ZZ6thcLlAy0RDtiKr-DQny2Gvx3N3CHhrN6zH5f4Qag" /> */}
         </div>
     )
 }
